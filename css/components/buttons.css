@@ -1,0 +1,22 @@
+.btn-primary {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #37372f;
+  padding: 16px 36px;
+  border-radius: 25px;
+  box-shadow: 3px 3px 0px 0px rgba(0,0,0,0.1);
+}
+
+.btn-primary a {
+  color: white;
+}
+ 
+.btn-primary:hover {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #6d6e6a;
+  padding: 16px 36px;
+  border-radius: 25px;
+  box-shadow: 3px 3px 0px 0px rgba(0,0,0,0.1);
+}
+  
